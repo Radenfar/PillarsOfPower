@@ -1,0 +1,8 @@
+Big:
+- seed-based map generation
+- achievements
+- Customisability: edit the name of your nation/create a nation from the main menu and insert it into the game
+- Occupation: A compliance system where tiles taken from other nations do not give as much mp/have to be 'cored'
+
+Small:
+- Make big debuff for losing your capital -> ie, make capitals really important to keep to add a layer of complexity
